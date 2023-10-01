@@ -402,7 +402,6 @@ html,body {
     height: 100%;
     background-color: var(--dark);
     border: solid 1px var(--medium_gray);
-    border-radius: 5px;
     left: 60px;
 }
 
